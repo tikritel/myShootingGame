@@ -22,7 +22,7 @@ You can increase or decrease the game difficulty by increasing/decreasing the pl
 
 How to run the game
 Version->Unity 2019.2
-Packages you have to download->GoogleVR and 3D Items - Wand Pack
+
 
 
 Thanks a lot : )
